@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-24">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="country" type="string" />
+      <attribute id="1" title="producer_strength" type="double" />
+      <attribute id="2" title="manufacturer_strength" type="double" />
+      <attribute id="3" title="capability" type="double" />
+      <attribute id="4" title="dependency_class" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AUS" label="AUS">
+        <attvalues>
+          <attvalue for="0" value="Australia" />
+          <attvalue for="1" value="0.9583333333333334" />
+          <attvalue for="2" value="0.25" />
+          <attvalue for="3" value="0.39537632274024126" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="BOL" label="BOL">
+        <attvalues>
+          <attvalue for="0" value="Bolivia" />
+          <attvalue for="1" value="0.25" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.09941247358921547" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="BRA" label="BRA">
+        <attvalues>
+          <attvalue for="0" value="Brazil" />
+          <attvalue for="1" value="0.4166666666666667" />
+          <attvalue for="2" value="0.125" />
+          <attvalue for="3" value="0.20567400912401065" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="CAN" label="CAN">
+        <attvalues>
+          <attvalue for="0" value="Canada" />
+          <attvalue for="1" value="0.625" />
+          <attvalue for="2" value="0.375" />
+          <attvalue for="3" value="0.3536828494701894" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="CHL" label="CHL">
+        <attvalues>
+          <attvalue for="0" value="Chile" />
+          <attvalue for="1" value="0.20833333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07909483047541915" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="CHN" label="CHN">
+        <attvalues>
+          <attvalue for="0" value="China" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.75" />
+          <attvalue for="3" value="0.5499467515294166" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="COD" label="COD">
+        <attvalues>
+          <attvalue for="0" value="DRC" />
+          <attvalue for="1" value="0.16666666666666666" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.09033653575609785" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="CUB" label="CUB">
+        <attvalues>
+          <attvalue for="0" value="Cuba" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.2492981381971256" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="FIN" label="FIN">
+        <attvalues>
+          <attvalue for="0" value="Finland" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06948691626869903" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="IND" label="IND">
+        <attvalues>
+          <attvalue for="0" value="India" />
+          <attvalue for="1" value="0.3333333333333333" />
+          <attvalue for="2" value="0.25" />
+          <attvalue for="3" value="0.30844032754168177" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="IDN" label="IDN">
+        <attvalues>
+          <attvalue for="0" value="Indonesia" />
+          <attvalue for="1" value="0.125" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0861490675231707" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="KAZ" label="KAZ">
+        <attvalues>
+          <attvalue for="0" value="Kazakhstan" />
+          <attvalue for="1" value="0.20833333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.12438194688908133" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="PRK" label="PRK">
+        <attvalues>
+          <attvalue for="0" value="North Korea" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.08973310882990956" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="MDG" label="MDG">
+        <attvalues>
+          <attvalue for="0" value="Madagascar" />
+          <attvalue for="1" value="0.125" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06853139866521481" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="MEX" label="MEX">
+        <attvalues>
+          <attvalue for="0" value="Mexico" />
+          <attvalue for="1" value="0.25" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.09995748051460107" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="MOZ" label="MOZ">
+        <attvalues>
+          <attvalue for="0" value="Mozambique" />
+          <attvalue for="1" value="0.20833333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.08112349054476409" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="MMR" label="MMR">
+        <attvalues>
+          <attvalue for="0" value="Myanmar" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07785213809443882" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="NAM" label="NAM">
+        <attvalues>
+          <attvalue for="0" value="Namibia" />
+          <attvalue for="1" value="0.125" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.04266400996595836" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="NER" label="NER">
+        <attvalues>
+          <attvalue for="0" value="Niger" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06452086709344915" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="NGA" label="NGA">
+        <attvalues>
+          <attvalue for="0" value="Nigeria" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06335679981509851" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="PER" label="PER">
+        <attvalues>
+          <attvalue for="0" value="Peru" />
+          <attvalue for="1" value="0.4166666666666667" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.14414690846325526" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="PHL" label="PHL">
+        <attvalues>
+          <attvalue for="0" value="Philippines" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.05740292634748942" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="POL" label="POL">
+        <attvalues>
+          <attvalue for="0" value="Poland" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07554530336191143" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="RUS" label="RUS">
+        <attvalues>
+          <attvalue for="0" value="Russia" />
+          <attvalue for="1" value="0.7083333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.3204211570713967" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="RWA" label="RWA">
+        <attvalues>
+          <attvalue for="0" value="Rwanda" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.05292181141967255" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="ZAF" label="ZAF">
+        <attvalues>
+          <attvalue for="0" value="South Africa" />
+          <attvalue for="1" value="0.5" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.1332700441935096" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="TJK" label="TJK">
+        <attvalues>
+          <attvalue for="0" value="Tajikistan" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.05744338444068807" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="TUR" label="TUR">
+        <attvalues>
+          <attvalue for="0" value="Turkiye" />
+          <attvalue for="1" value="0.16666666666666666" />
+          <attvalue for="2" value="0.125" />
+          <attvalue for="3" value="0.11359834254961095" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="United States" />
+          <attvalue for="1" value="0.5" />
+          <attvalue for="2" value="1.0" />
+          <attvalue for="3" value="0.4829039567888551" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="UZB" label="UZB">
+        <attvalues>
+          <attvalue for="0" value="Uzbekistan" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06589864579199226" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="VNM" label="VNM">
+        <attvalues>
+          <attvalue for="0" value="Vietnam" />
+          <attvalue for="1" value="0.125" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07892868192544841" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="ZWE" label="ZWE">
+        <attvalues>
+          <attvalue for="0" value="Zimbabwe" />
+          <attvalue for="1" value="0.25" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.08571004144920823" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AUS" target="USA" id="0" weight="0.9583333333333334" />
+      <edge source="BOL" target="USA" id="1" weight="0.25" />
+      <edge source="BRA" target="USA" id="2" weight="0.4166666666666667" />
+      <edge source="CAN" target="USA" id="3" weight="0.625" />
+      <edge source="CHL" target="USA" id="4" weight="0.20833333333333334" />
+      <edge source="CHN" target="USA" id="5" weight="1.0" />
+      <edge source="COD" target="USA" id="6" weight="0.16666666666666666" />
+      <edge source="CUB" target="USA" id="7" weight="0.041666666666666664" />
+      <edge source="FIN" target="USA" id="8" weight="0.041666666666666664" />
+      <edge source="IND" target="USA" id="9" weight="0.3333333333333333" />
+      <edge source="IDN" target="USA" id="10" weight="0.125" />
+      <edge source="KAZ" target="USA" id="11" weight="0.20833333333333334" />
+      <edge source="PRK" target="USA" id="12" weight="0.041666666666666664" />
+      <edge source="MDG" target="USA" id="13" weight="0.125" />
+      <edge source="MEX" target="USA" id="14" weight="0.25" />
+      <edge source="MOZ" target="USA" id="15" weight="0.20833333333333334" />
+      <edge source="MMR" target="USA" id="16" weight="0.08333333333333333" />
+      <edge source="NAM" target="USA" id="17" weight="0.125" />
+      <edge source="NER" target="USA" id="18" weight="0.041666666666666664" />
+      <edge source="NGA" target="USA" id="19" weight="0.041666666666666664" />
+      <edge source="PER" target="USA" id="20" weight="0.4166666666666667" />
+      <edge source="PHL" target="USA" id="21" weight="0.08333333333333333" />
+      <edge source="POL" target="USA" id="22" weight="0.08333333333333333" />
+      <edge source="RUS" target="USA" id="23" weight="0.7083333333333334" />
+      <edge source="RWA" target="USA" id="24" weight="0.08333333333333333" />
+      <edge source="ZAF" target="USA" id="25" weight="0.5" />
+      <edge source="TJK" target="USA" id="26" weight="0.041666666666666664" />
+      <edge source="TUR" target="USA" id="27" weight="0.16666666666666666" />
+      <edge source="USA" target="USA" id="28" weight="0.5" />
+      <edge source="UZB" target="USA" id="29" weight="0.041666666666666664" />
+      <edge source="VNM" target="USA" id="30" weight="0.125" />
+      <edge source="ZWE" target="USA" id="31" weight="0.25" />
+    </edges>
+  </graph>
+</gexf>

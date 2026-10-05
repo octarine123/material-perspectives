@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-24">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="country" type="string" />
+      <attribute id="1" title="producer_strength" type="double" />
+      <attribute id="2" title="manufacturer_strength" type="double" />
+      <attribute id="3" title="capability" type="double" />
+      <attribute id="4" title="dependency_class" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ARG" label="ARG">
+        <attvalues>
+          <attvalue for="0" value="Argentina" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07145445323515223" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="AUS" label="AUS">
+        <attvalues>
+          <attvalue for="0" value="Australia" />
+          <attvalue for="1" value="0.9583333333333334" />
+          <attvalue for="2" value="0.25" />
+          <attvalue for="3" value="0.39537632274024126" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="BLR" label="BLR">
+        <attvalues>
+          <attvalue for="0" value="Belarus" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07208428576603919" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="BRA" label="BRA">
+        <attvalues>
+          <attvalue for="0" value="Brazil" />
+          <attvalue for="1" value="0.4166666666666667" />
+          <attvalue for="2" value="0.125" />
+          <attvalue for="3" value="0.20567400912401065" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="CAN" label="CAN">
+        <attvalues>
+          <attvalue for="0" value="Canada" />
+          <attvalue for="1" value="0.625" />
+          <attvalue for="2" value="0.375" />
+          <attvalue for="3" value="0.3536828494701894" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="CHL" label="CHL">
+        <attvalues>
+          <attvalue for="0" value="Chile" />
+          <attvalue for="1" value="0.20833333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.07909483047541915" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="CHN" label="CHN">
+        <attvalues>
+          <attvalue for="0" value="China" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.75" />
+          <attvalue for="3" value="0.5499467515294166" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="EGY" label="EGY">
+        <attvalues>
+          <attvalue for="0" value="Egypt" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.06864583666434307" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="GAB" label="GAB">
+        <attvalues>
+          <attvalue for="0" value="Gabon" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.045357125400853675" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="DEU" label="DEU">
+        <attvalues>
+          <attvalue for="0" value="Germany" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.5" />
+          <attvalue for="3" value="0.19981640194583905" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="JPN" label="JPN">
+        <attvalues>
+          <attvalue for="0" value="Japan" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.375" />
+          <attvalue for="3" value="0.1571999664906087" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="JOR" label="JOR">
+        <attvalues>
+          <attvalue for="0" value="Jordan" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0587234612424634" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="KOR" label="KOR">
+        <attvalues>
+          <attvalue for="0" value="South Korea" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.5" />
+          <attvalue for="3" value="0.1754475390307848" />
+          <attvalue for="4" value="Manufacturer Only" />
+        </attvalues>
+      </node>
+      <node id="MAR" label="MAR">
+        <attvalues>
+          <attvalue for="0" value="Morocco" />
+          <attvalue for="1" value="0.125" />
+          <attvalue for="2" value="0.125" />
+          <attvalue for="3" value="0.10377336043053692" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="NLD" label="NLD">
+        <attvalues>
+          <attvalue for="0" value="Netherlands" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.25" />
+          <attvalue for="3" value="0.11848766642688843" />
+          <attvalue for="4" value="Manufacturer Only" />
+        </attvalues>
+      </node>
+      <node id="RUS" label="RUS">
+        <attvalues>
+          <attvalue for="0" value="Russia" />
+          <attvalue for="1" value="0.7083333333333334" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.3204211570713967" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="SAU" label="SAU">
+        <attvalues>
+          <attvalue for="0" value="Saudi Arabia" />
+          <attvalue for="1" value="0.041666666666666664" />
+          <attvalue for="2" value="0.25" />
+          <attvalue for="3" value="0.11506444133539985" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="ZAF" label="ZAF">
+        <attvalues>
+          <attvalue for="0" value="South Africa" />
+          <attvalue for="1" value="0.5" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.1332700441935096" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="TUR" label="TUR">
+        <attvalues>
+          <attvalue for="0" value="Turkiye" />
+          <attvalue for="1" value="0.16666666666666666" />
+          <attvalue for="2" value="0.125" />
+          <attvalue for="3" value="0.11359834254961095" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+      <node id="UKR" label="UKR">
+        <attvalues>
+          <attvalue for="0" value="Ukraine" />
+          <attvalue for="1" value="0.08333333333333333" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.08345905806052846" />
+          <attvalue for="4" value="Producer Only" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="United States" />
+          <attvalue for="1" value="0.5" />
+          <attvalue for="2" value="1.0" />
+          <attvalue for="3" value="0.4829039567888551" />
+          <attvalue for="4" value="Integrated" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ARG" target="CHN" id="0" weight="0.0625" />
+      <edge source="ARG" target="DEU" id="1" weight="0.041666666666666664" />
+      <edge source="ARG" target="JPN" id="2" weight="0.03125" />
+      <edge source="ARG" target="KOR" id="3" weight="0.041666666666666664" />
+      <edge source="ARG" target="NLD" id="4" weight="0.020833333333333332" />
+      <edge source="ARG" target="USA" id="5" weight="0.08333333333333333" />
+      <edge source="AUS" target="CHN" id="6" weight="0.71875" />
+      <edge source="AUS" target="DEU" id="7" weight="0.4791666666666667" />
+      <edge source="AUS" target="JPN" id="8" weight="0.359375" />
+      <edge source="AUS" target="KOR" id="9" weight="0.4791666666666667" />
+      <edge source="AUS" target="NLD" id="10" weight="0.23958333333333334" />
+      <edge source="AUS" target="USA" id="11" weight="0.9583333333333334" />
+      <edge source="BLR" target="CHN" id="12" weight="0.03125" />
+      <edge source="BLR" target="DEU" id="13" weight="0.020833333333333332" />
+      <edge source="BLR" target="JPN" id="14" weight="0.015625" />
+      <edge source="BLR" target="KOR" id="15" weight="0.020833333333333332" />
+      <edge source="BLR" target="NLD" id="16" weight="0.010416666666666666" />
+      <edge source="BLR" target="USA" id="17" weight="0.041666666666666664" />
+      <edge source="BRA" target="CHN" id="18" weight="0.3125" />
+      <edge source="BRA" target="DEU" id="19" weight="0.20833333333333334" />
+      <edge source="BRA" target="JPN" id="20" weight="0.15625" />
+      <edge source="BRA" target="KOR" id="21" weight="0.20833333333333334" />
+      <edge source="BRA" target="NLD" id="22" weight="0.10416666666666667" />
+      <edge source="BRA" target="USA" id="23" weight="0.4166666666666667" />
+      <edge source="CAN" target="CHN" id="24" weight="0.46875" />
+      <edge source="CAN" target="DEU" id="25" weight="0.3125" />
+      <edge source="CAN" target="JPN" id="26" weight="0.234375" />
+      <edge source="CAN" target="KOR" id="27" weight="0.3125" />
+      <edge source="CAN" target="NLD" id="28" weight="0.15625" />
+      <edge source="CAN" target="USA" id="29" weight="0.625" />
+      <edge source="CHL" target="CHN" id="30" weight="0.15625" />
+      <edge source="CHL" target="DEU" id="31" weight="0.10416666666666667" />
+      <edge source="CHL" target="JPN" id="32" weight="0.078125" />
+      <edge source="CHL" target="KOR" id="33" weight="0.10416666666666667" />
+      <edge source="CHL" target="NLD" id="34" weight="0.052083333333333336" />
+      <edge source="CHL" target="USA" id="35" weight="0.20833333333333334" />
+      <edge source="CHN" target="CHN" id="36" weight="0.75" />
+      <edge source="CHN" target="DEU" id="37" weight="0.5" />
+      <edge source="CHN" target="JPN" id="38" weight="0.375" />
+      <edge source="CHN" target="KOR" id="39" weight="0.5" />
+      <edge source="CHN" target="NLD" id="40" weight="0.25" />
+      <edge source="CHN" target="USA" id="41" weight="1.0" />
+      <edge source="EGY" target="CHN" id="42" weight="0.03125" />
+      <edge source="EGY" target="DEU" id="43" weight="0.020833333333333332" />
+      <edge source="EGY" target="JPN" id="44" weight="0.015625" />
+      <edge source="EGY" target="KOR" id="45" weight="0.020833333333333332" />
+      <edge source="EGY" target="NLD" id="46" weight="0.010416666666666666" />
+      <edge source="EGY" target="USA" id="47" weight="0.041666666666666664" />
+      <edge source="GAB" target="CHN" id="48" weight="0.03125" />
+      <edge source="GAB" target="DEU" id="49" weight="0.020833333333333332" />
+      <edge source="GAB" target="JPN" id="50" weight="0.015625" />
+      <edge source="GAB" target="KOR" id="51" weight="0.020833333333333332" />
+      <edge source="GAB" target="NLD" id="52" weight="0.010416666666666666" />
+      <edge source="GAB" target="USA" id="53" weight="0.041666666666666664" />
+      <edge source="DEU" target="CHN" id="54" weight="0.0625" />
+      <edge source="DEU" target="DEU" id="55" weight="0.041666666666666664" />
+      <edge source="DEU" target="JPN" id="56" weight="0.03125" />
+      <edge source="DEU" target="KOR" id="57" weight="0.041666666666666664" />
+      <edge source="DEU" target="NLD" id="58" weight="0.020833333333333332" />
+      <edge source="DEU" target="USA" id="59" weight="0.08333333333333333" />
+      <edge source="JOR" target="CHN" id="60" weight="0.03125" />
+      <edge source="JOR" target="DEU" id="61" weight="0.020833333333333332" />
+      <edge source="JOR" target="JPN" id="62" weight="0.015625" />
+      <edge source="JOR" target="KOR" id="63" weight="0.020833333333333332" />
+      <edge source="JOR" target="NLD" id="64" weight="0.010416666666666666" />
+      <edge source="JOR" target="USA" id="65" weight="0.041666666666666664" />
+      <edge source="MAR" target="CHN" id="66" weight="0.09375" />
+      <edge source="MAR" target="DEU" id="67" weight="0.0625" />
+      <edge source="MAR" target="JPN" id="68" weight="0.046875" />
+      <edge source="MAR" target="KOR" id="69" weight="0.0625" />
+      <edge source="MAR" target="NLD" id="70" weight="0.03125" />
+      <edge source="MAR" target="USA" id="71" weight="0.125" />
+      <edge source="RUS" target="CHN" id="72" weight="0.53125" />
+      <edge source="RUS" target="DEU" id="73" weight="0.3541666666666667" />
+      <edge source="RUS" target="JPN" id="74" weight="0.265625" />
+      <edge source="RUS" target="KOR" id="75" weight="0.3541666666666667" />
+      <edge source="RUS" target="NLD" id="76" weight="0.17708333333333334" />
+      <edge source="RUS" target="USA" id="77" weight="0.7083333333333334" />
+      <edge source="SAU" target="CHN" id="78" weight="0.03125" />
+      <edge source="SAU" target="DEU" id="79" weight="0.020833333333333332" />
+      <edge source="SAU" target="JPN" id="80" weight="0.015625" />
+      <edge source="SAU" target="KOR" id="81" weight="0.020833333333333332" />
+      <edge source="SAU" target="NLD" id="82" weight="0.010416666666666666" />
+      <edge source="SAU" target="USA" id="83" weight="0.041666666666666664" />
+      <edge source="ZAF" target="CHN" id="84" weight="0.375" />
+      <edge source="ZAF" target="DEU" id="85" weight="0.25" />
+      <edge source="ZAF" target="JPN" id="86" weight="0.1875" />
+      <edge source="ZAF" target="KOR" id="87" weight="0.25" />
+      <edge source="ZAF" target="NLD" id="88" weight="0.125" />
+      <edge source="ZAF" target="USA" id="89" weight="0.5" />
+      <edge source="TUR" target="CHN" id="90" weight="0.125" />
+      <edge source="TUR" target="DEU" id="91" weight="0.08333333333333333" />
+      <edge source="TUR" target="JPN" id="92" weight="0.0625" />
+      <edge source="TUR" target="KOR" id="93" weight="0.08333333333333333" />
+      <edge source="TUR" target="NLD" id="94" weight="0.041666666666666664" />
+      <edge source="TUR" target="USA" id="95" weight="0.16666666666666666" />
+      <edge source="UKR" target="CHN" id="96" weight="0.0625" />
+      <edge source="UKR" target="DEU" id="97" weight="0.041666666666666664" />
+      <edge source="UKR" target="JPN" id="98" weight="0.03125" />
+      <edge source="UKR" target="KOR" id="99" weight="0.041666666666666664" />
+      <edge source="UKR" target="NLD" id="100" weight="0.020833333333333332" />
+      <edge source="UKR" target="USA" id="101" weight="0.08333333333333333" />
+      <edge source="USA" target="CHN" id="102" weight="0.375" />
+      <edge source="USA" target="DEU" id="103" weight="0.25" />
+      <edge source="USA" target="JPN" id="104" weight="0.1875" />
+      <edge source="USA" target="KOR" id="105" weight="0.25" />
+      <edge source="USA" target="NLD" id="106" weight="0.125" />
+      <edge source="USA" target="USA" id="107" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>
