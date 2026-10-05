@@ -1,0 +1,101 @@
+Sector Code,Company,Country Code,Revenue ($bn)
+ELS ,RTX,USA,88.6
+ELS ,Boeing,USA,80
+ELS ,Airbus,FRA,77
+ELS ,Lockheed Martin,USA,75
+ELS ,Northrop Grumman,USA,42
+ELS ,General Dynamics,USA,42
+ELS ,BAE Systems,GBR,37
+ELS ,Safran,FRA,32
+ELS ,L3Harris,USA,21
+ELS ,SpaceX,USA,15
+MSM ,Nutrien,CAN,29.1
+MSM ,Wesfarmers (fertilizer division),AUS,28.7
+MSM ,Mosaic,USA,12.8
+MSM ,OCP Group,MAR,9.8
+MSM ,ICL Group,ISR,7.4
+MSM ,CF Industries,USA,7.4
+MSM ,Yara,NOR,13.9
+MSM ,EuroChem,CHE,7.5
+MSM ,SAFCO,SAU,3.3
+MSM ,Coromandel,IND,3
+AGR ,Volkswagen Group,DEU,365
+AGR ,Toyota,JPN,334
+AGR ,Ford,USA,190
+AGR ,General Motors,USA,186
+AGR ,Stellantis,NLD,178
+AGR ,BMW,DEU,152
+AGR ,Mercedes-Benz,DEU,151
+AGR ,Honda,JPN,144
+AGR ,Hyundai,KOR,132
+AGR ,BYD,CHN,107
+EPG ,BASF,DEU,71
+EPG ,Bayer,DEU,53
+EPG ,Dow,USA,39
+EPG ,Linde,GBR,35
+EPG ,LG Chem,KOR,32
+EPG ,Air Liquide,FRA,32
+EPG ,Mitsubishi Chemical,JPN,30
+EPG ,LyondellBasell,USA,30
+EPG ,SABIC,SAU,29
+EPG ,Wanhua Chemical,CHN,25
+HCS ,Iberdrola,ESP,64
+HCS ,GE Vernova,USA,36
+HCS ,NextEra Energy,USA,25
+HCS ,Sungrow,CHN,11
+HCS ,Longi Green Energy,CHN,10
+HCS ,CATL,CHN,64
+HCS ,Vestas,DNK,23
+HCS ,Brookfield Renewable,CAN,5
+HCS ,Goldwind,CHN,8
+HCS ,Adani Green,IND,3
+CHM ,China State Construction Engineering,CHN,304
+CHM ,China Railway Group,CHN,161
+CHM ,China Railway Construction Corp,CHN,148
+CHM ,China Communications Construction,CHN,104
+CHM ,Vinci,FRA,76
+CHM ,Bouygues,FRA,61
+CHM ,ACS Group,ESP,56
+CHM ,ENKA,TUR,48
+CHM ,Hochtief,DEU,36
+CHM ,Lennar,USA,36
+AUT ,Samsung Electronics,KOR,271
+AUT ,NVIDIA,USA,253
+AUT ,TSMC,TWN,122
+AUT ,SK Hynix,KOR,92
+AUT ,Micron,USA,90
+AUT ,Broadcom,USA,75
+AUT ,Intel,USA,54
+AUT ,Qualcomm,USA,44
+AUT ,ASML,NLD,41
+AUT ,AMD,USA,37
+CEE ,Equinor,NOR,104
+CEE ,E.ON,DEU,88
+CEE ,ENGIE,FRA,85
+CEE ,Uniper,DEU,76
+CEE ,Enel,ITA,75
+CEE ,Korea Electric Power,KOR,68
+CEE ,CATL,CHN,64
+CEE ,Iberdrola,ESP,51
+CEE ,TEPCO,JPN,47
+CEE ,Siemens Energy,DEU,47
+ADS ,UnitedHealth,USA,450
+ADS ,CVS Health,USA,408
+ADS ,McKesson,USA,403
+ADS ,Cencora,USA,329
+ADS ,Cigna,USA,277
+ADS ,Cardinal Health,USA,251
+ADS ,Elevance Health,USA,201
+ADS ,Centene,USA,198
+ADS ,Johnson & Johnson,USA,94
+ADS ,HCA Healthcare,USA,76
+CON ,Glencore,CHE,218
+CON ,AMER International,CHN,91
+CON ,Jiangxi Copper,CHN,73
+CON ,HBIS Group,CHN,57
+CON ,Rio Tinto,AUS,54
+CON ,Jinchuan Group,CHN,50
+CON ,Eurasian Resources Group,LUX,44
+CON ,Vale,BRA,38
+CON ,Shougang Group,CHN,37
+CON ,Nutrien,CAN,38

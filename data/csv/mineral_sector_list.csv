@@ -1,0 +1,181 @@
+Mineral Code,product types,Sector Code
+ALU,transportation,AUT
+ALU, construction,CON
+ALU, packaging,HCS
+ALU, electrical transmission,EPG
+ANT,flame retardants,CHM
+ANT, batteries,CEE
+ANT, defense,ADS
+ANT, electronics,ELS
+ARS,semiconductors,ELS
+ARS, electronics,ELS
+ARS, wood preservatives,CHM
+ARS, specialty alloys,MSM
+BAR,oil & gas drilling,EPG
+BAR, chemicals,CHM
+BAR, paints,CHM
+BAR, plastics,CHM
+BER,aerospace,ADS
+BER, defense,ADS
+BER, electronics,ELS
+BER, telecommunications,ELS
+BIS,pharmaceuticals,HCS
+BIS, cosmetics,HCS
+BIS, chemicals,CHM
+BIS, low-melting alloys,MSM
+BOR,glass & ceramics,CON
+BOR, detergents,CHM
+BOR, agriculture,AGR
+BOR, fiberglass,CON
+CES,oil & gas drilling,EPG
+CES, atomic clocks,ELS
+CES, electronics,ELS
+CES, medical applications,HCS
+CHR,stainless steel,MSM
+CHR, aerospace,ADS
+CHR, chemicals,CHM
+CHR, refractory materials,MSM
+COB,batteries,CEE
+COB, aerospace,ADS
+COB, defense,ADS
+COB, superalloys,ADS
+COP,electrical power,EPG
+COP, construction,CON
+COP, electronics,ELS
+COP, renewable energy,CEE
+FLU,steelmaking,MSM
+FLU, aluminum production,MSM
+FLU, chemicals,CHM
+FLU, refrigerants,CHM
+GAL,semiconductors,ELS
+GAL, leds,ELS
+GAL, solar panels,CEE
+GAL, telecommunications,ELS
+GER,fiber optics,ELS
+GER, infrared optics,ELS
+GER, solar cells,CEE
+GER, electronics,ELS
+GRA,batteries,CEE
+GRA, steelmaking,MSM
+GRA, lubricants,CHM
+GRA, refractories,MSM
+HAF,aerospace,ADS
+HAF, nuclear reactors,EPG
+HAF, semiconductors,ELS
+HAF, superalloys,ADS
+IND,displays (lcds),ELS
+IND, semiconductors,ELS
+IND, solar panels,CEE
+IND, electronics,ELS
+IRI,electronics,ELS
+IRI, chemical catalysts,CHM
+IRI, aerospace,ADS
+IRI, hydrogen technologies,CEE
+LED,batteries,CEE
+LED, construction,CON
+LED, radiation shielding,HCS
+LED, ammunition,ADS
+LIT,batteries,CEE
+LIT, electric vehicles,AUT
+LIT, energy storage,CEE
+LIT, consumer electronics,ELS
+MAG,automotive,AUT
+MAG, aerospace,ADS
+MAG, aluminum alloys,MSM
+MAG, steelmaking,MSM
+MAN,steel production,MSM
+MAN, batteries,CEE
+MAN, chemicals,CHM
+MAN, fertilizers,AGR
+MCO,steelmaking,MSM
+MCO, foundries,MSM
+MCO, industrial manufacturing,MSM
+MCO,steel production,MSM
+NIC,stainless steel,MSM
+NIC, batteries,CEE
+NIC, aerospace,ADS
+NIC, chemicals,CHM
+NIO,steel & alloys,MSM
+NIO, construction,CON
+NIO, automotive,AUT
+NIO, pipelines,CON
+PAL,automotive catalysts,AUT
+PAL, electronics,ELS
+PAL, dentistry,HCS
+PAL, jewelry,HCS
+PHO,fertilizers,AGR
+PHO, food processing,AGR
+PHO, chemicals,CHM
+PHO, animal feed,AGR
+PLA,automotive catalysts,AUT
+PLA, jewelry,HCS
+PLA, chemical processing,CHM
+PLA, fuel cells,CEE
+POT,fertilizers,AGR
+POT, agriculture,AGR
+POT, chemicals,CHM
+REE,permanent magnets,CEE
+REE, electric vehicles,AUT
+REE, wind turbines,CEE
+REE, electronics,ELS
+RHE,aerospace turbines,ADS
+RHE, superalloys,ADS
+RHE, catalysts,CHM
+RHE, defense,ADS
+RHO,automotive catalysts,AUT
+RHO, chemical manufacturing,CHM
+RHO, glass production,CHM
+RHO, electronics,ELS
+RUB,electronics,ELS
+RUB, specialty glass,CHM
+RUB, telecommunications,ELS
+RUB, research applications,HCS
+RUT,electronics,ELS
+RUT, semiconductors,ELS
+RUT, chemical catalysts,CHM
+RUT, energy storage,CEE
+SCA,aerospace alloys,ADS
+SCA, solid oxide fuel cells,CEE
+SCA, sports equipment,HCS
+SIL,semiconductors,ELS
+SIL, solar panels,CEE
+SIL, glass,CON
+SIL, construction,CON
+SLV,electronics,ELS
+SLV, solar panels,CEE
+SLV, jewelry,HCS
+SLV, medical applications,HCS
+TAN,electronics (capacitors),ELS
+TAN, aerospace,ADS
+TAN, medical devices,HCS
+TAN, defense,ADS
+TEL,solar panels,CEE
+TEL, thermoelectric devices,ELS
+TEL, metallurgy,MSM
+TEL, electronics,ELS
+TIN,electronics solder,ELS
+TIN, packaging,HCS
+TIN, chemicals,CHM
+TIN, alloys,MSM
+TIT,aerospace,ADS
+TIT, medical implants,HCS
+TIT, pigments,CHM
+TIT, chemical processing,CHM
+TUN,cutting tools,MSM
+TUN, mining equipment,MSM
+TUN, aerospace,ADS
+TUN, defense,ADS
+URA,nuclear power generation,EPG
+URA, defense,ADS
+URA, medical isotopes,HCS
+VAN,steel alloys,MSM
+VAN, energy storage batteries,CEE
+VAN, aerospace,ADS
+ZIN,galvanized steel,MSM
+ZIN, construction,CON
+ZIN, automotive,AUT
+ZIN, chemicals,CHM
+ZIR,nuclear power,EPG
+ZIR, ceramics,CON
+ZIR, foundries,MSM
+ZIR, chemicals,CHM

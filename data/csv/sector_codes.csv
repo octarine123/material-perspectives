@@ -1,0 +1,11 @@
+Name,Sector Code,Elasticity,Interpretation
+"Healthcare, Consumer & Specialty Products",HCS ,1,"Generally greatest ability to substitute, redesign, or pass costs through."
+Automotive & Transportation,AUT ,0.6,Some substitution and redesign possible over several years.
+Electronics & Semiconductors,ELS ,0.2,Highly dependent on specific materials and performance characteristics.
+Construction & Infrastructure,CON ,0.8,"Material substitution is often possible, though slowly."
+Energy & Power Generation,EPG ,0.2,Long-lived assets with limited short-term substitution options.
+"Metals, Steel & Manufacturing",MSM,0.4,Core metallurgical requirements limit flexibility.
+"Aerospace, Defense, and Space",ADS ,0.2,Very inelastic. Certification and safety requirements make substitution difficult.
+"Chemicals, Materials & Industrial Processing",CHM ,0.7,Moderate ability to reformulate processes and switch feedstocks.
+Clean Energy & Electrification,CEE ,0.4,Technology pathways are constrained by mineral requirements and policy targets.
+Agriculture & Fertilizers,AGR ,0.3,Food demand ultimately constrains substitution. Farmers can defer but not eliminate inputs.
