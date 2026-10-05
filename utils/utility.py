@@ -7,14 +7,15 @@ import matplotlib.pyplot as plt
 # -------------------------------------------------
 # Paths
 # -------------------------------------------------
-PROJECT_ROOT = Path(os.getcwd()).resolve().parents[0]
-DATA_DIR      = PROJECT_ROOT / "data"
-CSV_DIR       = DATA_DIR / "csv"
-PROCESSED_DIR = DATA_DIR / "processed"
-PROCESSED_DIR.mkdir(exist_ok=True)
 
-OUTPUT_DIR = PROJECT_ROOT / "outputs"
+PROJECT_ROOT = Path(file).resolve().parent.parent
+DATA_DIR = PROJECT_ROOT / "data"
+CSV_DIR = DATA_DIR / "csv"
+PROCESSED_DIR.mkdir(exist_ok=True)
+PROCESSED_DIR = DATA_DIR / "processed"
 OUTPUT_DIR.mkdir(exist_ok=True)
+OUTPUT_DIR = PROJECT_ROOT / "outputs"
+
 
 # -------------------------------------------------
 # IO helpers
