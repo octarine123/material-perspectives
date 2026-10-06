@@ -1,0 +1,49 @@
+Purpose,"This workbook explores the relationship between strategic minerals, industrial sectors, manufacturing economies and national development strategies. The objective is not to estimate market value but to understand how different countries view strategic resources and how those resources support industrial capability."
+,
+Structure,"Crit_Min_Frameworks - Compares national mineral strategies
+
+01_raw_data - Source geological data
+
+02_ref_data - Country-mineral matrix
+
+03_global_tot - Producer counts
+
+03_calc_demand - Scarcity / importance calculations
+
+03_calc_weight - Country scores
+
+Mineral Industry List - Mineral Product Sector mapping
+
+sector-mineral matrix - Demand analysis
+
+sector-country matrix - Manufacturing geography
+
+sector-country list - Source company dataset
+
+Country Code - ISO3 reference
+
+Mineral Codes - Mineral reference
+
+Sector Codes - Sector definitions and elasticity"
+,
+Key Assumptions,"Geographic
+Deposit occurrence is used instead of production volume.
+
+Industrial
+Major firms are proxies for global industrial activity
+
+Classification
+Product-to-sector mapping used with engineering judgment
+
+Strategic Frameworks
+Critical mineral lists are treated as expressions of national priorities rather than objective truth."
+,
+Limitations,"No mid-stream data from extraction to final manufactured products
+
+No trade flow data
+
+No production share data
+
+No demographic data
+
+No value capture data"

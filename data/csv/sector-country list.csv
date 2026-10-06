@@ -1,0 +1,101 @@
+Sector Code,Company,Country Code,Revenue ($bn),Rank
+ADS ,UnitedHealth,USA,450.0,1.0
+ADS ,CVS Health,USA,408.0,2.0
+ADS ,McKesson,USA,403.0,3.0
+AGR ,Volkswagen Group,DEU,365.0,4.0
+AGR ,Toyota,JPN,334.0,5.0
+ADS ,Cencora,USA,329.0,6.0
+CHM ,China State Construction Engineering,CHN,304.0,7.0
+ADS ,Cigna,USA,277.0,8.0
+AUT ,Samsung Electronics,KOR,271.0,9.0
+AUT ,NVIDIA,USA,253.0,10.0
+ADS ,Cardinal Health,USA,251.0,11.0
+CON ,Glencore,CHE,218.0,12.0
+ADS ,Elevance Health,USA,201.0,13.0
+ADS ,Centene,USA,198.0,14.0
+AGR ,Ford,USA,190.0,15.0
+AGR ,General Motors,USA,186.0,16.0
+AGR ,Stellantis,NLD,178.0,17.0
+CHM ,China Railway Group,CHN,161.0,18.0
+AGR ,BMW,DEU,152.0,19.0
+AGR ,Mercedes-Benz,DEU,151.0,20.0
+CHM ,China Railway Construction Corp,CHN,148.0,21.0
+AGR ,Honda,JPN,144.0,22.0
+AGR ,Hyundai,KOR,132.0,23.0
+AUT ,TSMC,TWN,122.0,24.0
+AGR ,BYD,CHN,107.0,25.0
+CHM ,China Communications Construction,CHN,104.0,26.5
+CEE ,Equinor,NOR,104.0,26.5
+ADS ,Johnson & Johnson,USA,94.0,28.0
+AUT ,SK Hynix,KOR,92.0,29.0
+CON ,AMER International,CHN,91.0,30.0
+AUT ,Micron,USA,90.0,31.0
+ELS ,RTX,USA,88.6,32.0
+CEE ,E.ON,DEU,88.0,33.0
+CEE ,ENGIE,FRA,85.0,34.0
+ELS ,Boeing,USA,80.0,35.0
+ELS ,Airbus,FRA,77.0,36.0
+CHM ,Vinci,FRA,76.0,38.0
+CEE ,Uniper,DEU,76.0,38.0
+ADS ,HCA Healthcare,USA,76.0,38.0
+ELS ,Lockheed Martin,USA,75.0,41.0
+AUT ,Broadcom,USA,75.0,41.0
+CEE ,Enel,ITA,75.0,41.0
+CON ,Jiangxi Copper,CHN,73.0,43.0
+EPG ,BASF,DEU,71.0,44.0
+CEE ,Korea Electric Power,KOR,68.0,45.0
+HCS ,Iberdrola,ESP,64.0,47.0
+HCS ,CATL,CHN,64.0,47.0
+CEE ,CATL,CHN,64.0,47.0
+CHM ,Bouygues,FRA,61.0,49.0
+CON ,HBIS Group,CHN,57.0,50.0
+CHM ,ACS Group,ESP,56.0,51.0
+AUT ,Intel,USA,54.0,52.5
+CON ,Rio Tinto,AUS,54.0,52.5
+EPG ,Bayer,DEU,53.0,54.0
+CEE ,Iberdrola,ESP,51.0,55.0
+CON ,Jinchuan Group,CHN,50.0,56.0
+CHM ,ENKA,TUR,48.0,57.0
+CEE ,TEPCO,JPN,47.0,58.5
+CEE ,Siemens Energy,DEU,47.0,58.5
+AUT ,Qualcomm,USA,44.0,60.5
+CON ,Eurasian Resources Group,LUX,44.0,60.5
+ELS ,Northrop Grumman,USA,42.0,62.5
+ELS ,General Dynamics,USA,42.0,62.5
+AUT ,ASML,NLD,41.0,64.0
+EPG ,Dow,USA,39.0,65.0
+CON ,Vale,BRA,38.0,66.5
+CON ,Nutrien,CAN,38.0,66.5
+ELS ,BAE Systems,GBR,37.0,69.0
+AUT ,AMD,USA,37.0,69.0
+CON ,Shougang Group,CHN,37.0,69.0
+HCS ,GE Vernova,USA,36.0,72.0
+CHM ,Hochtief,DEU,36.0,72.0
+CHM ,Lennar,USA,36.0,72.0
+EPG ,Linde,GBR,35.0,74.0
+ELS ,Safran,FRA,32.0,76.0
+EPG ,LG Chem,KOR,32.0,76.0
+EPG ,Air Liquide,FRA,32.0,76.0
+EPG ,Mitsubishi Chemical,JPN,30.0,78.5
+EPG ,LyondellBasell,USA,30.0,78.5
+MSM ,Nutrien,CAN,29.1,80.0
+EPG ,SABIC,SAU,29.0,81.0
+MSM ,Wesfarmers (fertilizer division),AUS,28.7,82.0
+EPG ,Wanhua Chemical,CHN,25.0,83.5
+HCS ,NextEra Energy,USA,25.0,83.5
+HCS ,Vestas,DNK,23.0,85.0
+ELS ,L3Harris,USA,21.0,86.0
+ELS ,SpaceX,USA,15.0,87.0
+MSM ,Yara,NOR,13.9,88.0
+MSM ,Mosaic,USA,12.8,89.0
+HCS ,Sungrow,CHN,11.0,90.0
+HCS ,Longi Green Energy,CHN,10.0,91.0
+MSM ,OCP Group,MAR,9.8,92.0
+HCS ,Goldwind,CHN,8.0,93.0
+MSM ,EuroChem,CHE,7.5,94.0
+MSM ,ICL Group,ISR,7.4,95.5
+MSM ,CF Industries,USA,7.4,95.5
+HCS ,Brookfield Renewable,CAN,5.0,97.0
+MSM ,SAFCO,SAU,3.3,98.0
+MSM ,Coromandel,IND,3.0,99.5
+HCS ,Adani Green,IND,3.0,99.5
