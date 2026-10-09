@@ -1,1 +1,17 @@
-test
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This repository's publication graphics, charts, and branded visual assets are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made
+- NonCommercial — you may not use the material for commercial purposes
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+For a human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+This license applies to publication assets, charts, and branded visuals where the Material Perspectives brand is prominent. If you want to use a chart in a commercial context, contact the project author for separate permission.
